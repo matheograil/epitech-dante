@@ -2,5 +2,3 @@ generator/generator
 solver/solver
 .vscode
 .DS_Store
-solver/maptest.txt
-solver/test.txt
