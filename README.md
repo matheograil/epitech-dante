@@ -1,5 +1,8 @@
 # Epitech : Dante
 **⚠️ This project is archived and is no longer maintained.**
 
-To launch the program :
-`make && ./navy pos1`
+## Generator
+`cd generator && make && ./generator [x] [y] [perfect]`
+
+## Solver
+`cd solver && make && ./solver`
